@@ -21,7 +21,7 @@ Hi, i'm tiezhu, working for DTStack.
 <!-- 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
    -->
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 any freelance work? do reach, [email](WTZ4680@163.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
