@@ -1,7 +1,7 @@
 ### Hi, I‘m FlechazoW, nice to meet you.
 
 # 💫 About Me
-Software Engineer, work for DTStack. Focus On Fields Of Big Data and data integration.
+Software Engineer. Focus On Fields Of Big Data and data integration.
 
 ## 📧 Contact
 E-mail: tianzhu4680@protonmail.com
